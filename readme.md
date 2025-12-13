@@ -1,5 +1,9 @@
 
- 📌 AUTOMATED CI/CD PIPELINE USING GITHUB ACTIONS (NODE.JS → EC2)
+ <h1 align="center">
+  🚀 AUTOMATED CI/CD PIPELINE USING GITHUB ACTIONS <br>
+  (NODE.JS → EC2)
+</h1>
+
 
 This project demonstrates a fully automated **CI/CD pipeline** built using **GitHub Actions** to deploy a **Node.js application** on an **AWS EC2 instance**.
 The pipeline follows DevOps best practices to ensure **zero downtime deployments**, secure access, automated testing, rollback handling, and faster release cycles.
