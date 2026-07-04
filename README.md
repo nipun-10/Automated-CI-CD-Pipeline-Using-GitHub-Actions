@@ -57,5 +57,6 @@ We welcome contributions! If you have deployment guides or improvements:
 - [Nginx Documentation](https://nginx.org/en/docs/)
 
 ---
+Cloud Engineer | AWS | DevOps | Generative AI | Agengic AI engineer
 
 **Keywords:** DevOps, AWS EC2 deployment, CI/CD pipelines, GitHub Actions, Node.js deployment, AWS ECS, Fargate, Next.js deployment, cloud deployment, infrastructure as code
