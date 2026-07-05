@@ -59,4 +59,8 @@ We welcome contributions! If you have deployment guides or improvements:
 ---
 Cloud Engineer | AWS | DevOps | Generative AI | Agengic AI engineer
 
+
+⭐ If you found this project helpful, consider giving the repository a star!
+
+
 **Keywords:** DevOps, AWS EC2 deployment, CI/CD pipelines, GitHub Actions, Node.js deployment, AWS ECS, Fargate, Next.js deployment, cloud deployment, infrastructure as code
